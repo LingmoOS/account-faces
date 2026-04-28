@@ -1,3 +1,9 @@
+velora-account-faces (1.0.18.lingmo.1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Wed, 29 Apr 2026 01:25:00 +0800
+
 dde-account-faces (1.0.17) unstable; urgency=medium
 
   * feat: account faces update

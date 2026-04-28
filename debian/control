@@ -1,7 +1,7 @@
-Source: dde-account-faces
+Source: velora-account-faces
 Section: deepin
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 8),
 
