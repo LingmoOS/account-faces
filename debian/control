@@ -1,11 +1,11 @@
-Source: velora-account-faces
+Source: lingmo-account-faces
 Section: deepin
 Priority: optional
 Maintainer: Lingmo OS Team <team@lingmo.org>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 8),
 
-Package: dde-account-faces
+Package: lingmo-account-faces
 Architecture: all
 Depends: accountsservice
 Conflicts: deepin-system-settings-module-account
